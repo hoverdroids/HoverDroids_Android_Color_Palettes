@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The list below came from the following website -->
+    <!--  http://stackoverflow.com/questions/3769762/android-color-xml-resource-file -->
+    <color name="Transparent">#00000000</color>
+    <color name="Black">#FF000000</color>
+    <color name="Black_overlay">#66000000</color>
+
+    <color name="Black_transparent_black_hex_1">#11000000</color>
+    <color name="Black_transparent_black_hex_2">#22000000</color>
+    <color name="Black_transparent_black_hex_3">#33000000</color>
+    <color name="Black_transparent_black_hex_4">#44000000</color>
+    <color name="Black_transparent_black_hex_5">#55000000</color>
+    <color name="Black_transparent_black_hex_6">#66000000</color>
+    <color name="Black_transparent_black_hex_7">#77000000</color>
+    <color name="Black_transparent_black_hex_8">#88000000</color>
+    <color name="Black_transparent_black_hex_9">#99000000</color>
+    <color name="Black_transparent_black_hex_10">#aa000000</color>
+    <color name="Black_transparent_black_hex_11">#bb000000</color>
+    <color name="Black_transparent_black_hex_12">#cc000000</color>
+    <color name="Black_transparent_black_hex_13">#dd000000</color>
+    <color name="Black_transparent_black_hex_14">#ee000000</color>
+    <color name="Black_transparent_black_hex_15">#ff000000</color>
+
+    <color name="Black_transparent_black_percent_0">#00000000</color>
+    <color name="Black_transparent_black_percent_5">#0D000000</color>
+    <color name="Black_transparent_black_percent_10">#1A000000</color>
+    <color name="Black_transparent_black_percent_15">#26000000</color>
+    <color name="Black_transparent_black_percent_20">#33000000</color>
+    <color name="Black_transparent_black_percent_25">#40000000</color>
+    <color name="Black_transparent_black_percent_30">#4D000000</color>
+    <color name="Black_transparent_black_percent_35">#59000000</color>
+    <color name="Black_transparent_black_percent_40">#66000000</color>
+    <color name="Black_transparent_black_percent_45">#73000000</color>
+    <color name="Black_transparent_black_percent_50">#80000000</color>
+    <color name="Black_transparent_black_percent_55">#8C000000</color>
+    <color name="Black_transparent_black_percent_60">#99000000</color>
+    <color name="Black_transparent_black_percent_65">#A6000000</color>
+    <color name="Black_transparent_black_percent_70">#B3000000</color>
+    <color name="Black_transparent_black_percent_75">#BF000000</color>
+    <color name="Black_transparent_black_percent_80">#CC000000</color>
+    <color name="Black_transparent_black_percent_85">#D9000000</color>
+    <color name="Black_transparent_black_percent_90">#E6000000</color>
+    <color name="Black_transparent_black_percent_95">#F2000000</color>
+
+    <color name="White_AntiqueWhite">#FAEBD7</color>
+    <color name="White_Azure">#F0FFFF</color>
+    <color name="White_Beige">#F5F5DC</color>
+    <color name="White_Bisque">#FFE4C4</color>
+    <color name="White_FloralWhite">#FFFAF0</color>
+    <color name="White_GhostWhite">#F8F8FF</color>
+    <color name="White_Honeydew">#F0FFF0</color>
+    <color name="White_Ivory">#FFFFF0</color>
+    <color name="White_NavajoWhite">#FFDEAD</color>
+    <color name="White_Snow">#FFFAFA</color>
+    <color name="White_Teal">#008080</color>
+
+    <color name="White_transparent_white_hex_1">#11ffffff</color>
+    <color name="White_transparent_white_hex_10">#aaffffff</color>
+    <color name="White_transparent_white_hex_11">#bbffffff</color>
+    <color name="White_transparent_white_hex_12">#ccffffff</color>
+    <color name="White_transparent_white_hex_13">#ddffffff</color>
+    <color name="White_transparent_white_hex_14">#eeffffff</color>
+    <color name="White_transparent_white_hex_15">#ffffffff</color>
+    <color name="White_transparent_white_hex_2">#22ffffff</color>
+    <color name="White_transparent_white_hex_3">#33ffffff</color>
+    <color name="White_transparent_white_hex_4">#44ffffff</color>
+    <color name="White_transparent_white_hex_5">#55ffffff</color>
+    <color name="White_transparent_white_hex_6">#66ffffff</color>
+    <color name="White_transparent_white_hex_7">#77ffffff</color>
+    <color name="White_transparent_white_hex_8">#88ffffff</color>
+    <color name="White_transparent_white_hex_9">#99ffffff</color>
+
+    <color name="White_transparent_white_percent_10">#1Affffff</color>
+    <color name="White_transparent_white_percent_15">#26ffffff</color>
+    <color name="White_transparent_white_percent_20">#33ffffff</color>
+    <color name="White_transparent_white_percent_25">#40ffffff</color>
+    <color name="White_transparent_white_percent_30">#4Dffffff</color>
+    <color name="White_transparent_white_percent_35">#59ffffff</color>
+    <color name="White_transparent_white_percent_40">#66ffffff</color>
+    <color name="White_transparent_white_percent_45">#73ffffff</color>
+    <color name="White_transparent_white_percent_5">#0Dffffff</color>
+    <color name="White_transparent_white_percent_50">#80ffffff</color>
+    <color name="White_transparent_white_percent_55">#8Cffffff</color>
+    <color name="White_transparent_white_percent_60">#99ffffff</color>
+    <color name="White_transparent_white_percent_65">#A6ffffff</color>
+    <color name="White_transparent_white_percent_70">#B3ffffff</color>
+    <color name="White_transparent_white_percent_75">#BFffffff</color>
+    <color name="White_transparent_white_percent_80">#CCffffff</color>
+    <color name="White_transparent_white_percent_85">#D9ffffff</color>
+    <color name="White_transparent_white_percent_90">#E6ffffff</color>
+    <color name="White_transparent_white_percent_95">#F2ffffff</color>
+
+    <color name="White_White">#FFFFFF</color>
+    <color name="White_WhiteSmoke">#F5F5F5</color>
+
+    <color name="Gray">#808080</color>
+    <color name="Gray_DarkGray1">#A9A9A9</color>
+    <color name="Gray_DarkGray">#2F4F4F</color>
+    <color name="Gray_DimGray">#696969</color>
+    <color name="Gray_LightGray">#D3D3D3</color>
+    <color name="Gray_LightSlateGray">#778899</color>
+    <color name="Gray_SlateGray">#708090</color>
+    <color name="Gray_Android">#333333</color>
+
+    <color name="Gainsboro">#DCDCDC</color>
+
+    <integer-array name = "reds">
+        <item>@color/Transparent</item>
+        <item>@color/Black</item>
+        <item>@color/Black_overlay</item>
+
+        <item>@color/Black_transparent_black_hex_1</item>
+        <item>@color/Black_transparent_black_hex_2</item>
+        <item>@color/Black_transparent_black_hex_3</item>
+        <item>@color/Black_transparent_black_hex_4</item>
+        <item>@color/Black_transparent_black_hex_5</item>
+        <item>@color/Black_transparent_black_hex_6</item>
+        <item>@color/Black_transparent_black_hex_7</item>
+        <item>@color/Black_transparent_black_hex_8</item>
+        <item>@color/Black_transparent_black_hex_9</item>
+        <item>@color/Black_transparent_black_hex_10</item>
+        <item>@color/Black_transparent_black_hex_11</item>
+        <item>@color/Black_transparent_black_hex_12</item>
+        <item>@color/Black_transparent_black_hex_13</item>
+        <item>@color/Black_transparent_black_hex_14</item>
+        <item>@color/Black_transparent_black_hex_15</item>
+
+        <item>@color/Black_transparent_black_percent_0</item>
+        <item>@color/Black_transparent_black_percent_5</item>
+        <item>@color/Black_transparent_black_percent_10</item>
+        <item>@color/Black_transparent_black_percent_15</item>
+        <item>@color/Black_transparent_black_percent_20</item>
+        <item>@color/Black_transparent_black_percent_25</item>
+        <item>@color/Black_transparent_black_percent_30</item>
+        <item>@color/Black_transparent_black_percent_35</item>
+        <item>@color/Black_transparent_black_percent_40</item>
+        <item>@color/Black_transparent_black_percent_45</item>
+        <item>@color/Black_transparent_black_percent_50</item>
+        <item>@color/Black_transparent_black_percent_55</item>
+        <item>@color/Black_transparent_black_percent_60</item>
+        <item>@color/Black_transparent_black_percent_65</item>
+        <item>@color/Black_transparent_black_percent_70</item>
+        <item>@color/Black_transparent_black_percent_75</item>
+        <item>@color/Black_transparent_black_percent_80</item>
+        <item>@color/Black_transparent_black_percent_85</item>
+        <item>@color/Black_transparent_black_percent_90</item>
+        <item>@color/Black_transparent_black_percent_95</item>
+
+        <item>@color/White_AntiqueWhite</item>
+        <item>@color/White_Azure</item>
+        <item>@color/White_Beige</item>
+        <item>@color/White_Bisque</item>
+        <item>@color/White_FloralWhite</item>
+        <item>@color/White_GhostWhite</item>
+        <item>@color/White_Honeydew</item>
+        <item>@color/White_Ivory</item>
+        <item>@color/White_NavajoWhite</item>
+        <item>@color/White_Snow</item>
+        <item>@color/White_Teal</item>
+
+        <item>@color/White_transparent_white_hex_1</item>
+        <item>@color/White_transparent_white_hex_10</item>
+        <item>@color/White_transparent_white_hex_11</item>>
+        <item>@color/White_transparent_white_hex_12</item>
+        <item>@color/White_transparent_white_hex_13</item>
+        <item>@color/White_transparent_white_hex_14</item>
+        <item>@color/White_transparent_white_hex_15</item>
+        <item>@color/White_transparent_white_hex_2</item>
+        <item>@color/White_transparent_white_hex_3</item>
+        <item>@color/White_transparent_white_hex_4</item>
+        <item>@color/White_transparent_white_hex_5</item>
+        <item>@color/White_transparent_white_hex_6</item>
+        <item>@color/White_transparent_white_hex_7</item>
+        <item>@color/White_transparent_white_hex_8</item>
+        <item>@color/White_transparent_white_hex_9</item>
+
+        <item>@color/White_transparent_white_percent_5</item>
+        <item>@color/White_transparent_white_percent_10</item>
+        <item>@color/White_transparent_white_percent_15</item>
+        <item>@color/White_transparent_white_percent_20</item>
+        <item>@color/White_transparent_white_percent_25</item>
+        <item>@color/White_transparent_white_percent_30</item>
+        <item>@color/White_transparent_white_percent_35</item>
+        <item>@color/White_transparent_white_percent_40</item>
+        <item>@color/White_transparent_white_percent_45</item>
+        <item>@color/White_transparent_white_percent_50</item>
+        <item>@color/White_transparent_white_percent_55</item>
+        <item>@color/White_transparent_white_percent_60</item>
+        <item>@color/White_transparent_white_percent_65</item>
+        <item>@color/White_transparent_white_percent_70</item>
+        <item>@color/White_transparent_white_percent_75</item>
+        <item>@color/White_transparent_white_percent_80</item>
+        <item>@color/White_transparent_white_percent_85</item>
+        <item>@color/White_transparent_white_percent_90</item>
+        <item>@color/White_transparent_white_percent_95</item>
+
+        <item>@color/White_White</item>
+        <item>@color/White_WhiteSmoke</item>
+
+        <item>@color/Gray</item>
+        <item>@color/Gray_DarkGray1</item>
+        <item>@color/Gray_DarkGray</item>
+        <item>@color/Gray_DimGray</item>
+        <item>@color/Gray_LightGray</item>
+        <item>@color/Gray_LightSlateGray</item>
+        <item>@color/Gray_SlateGray</item>
+        <item>@color/Gray_Android</item>
+
+        <item>@color/Gainsboro</item>
+    </integer-array>
+</resources>

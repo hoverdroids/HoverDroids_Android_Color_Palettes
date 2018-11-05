@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The list below came from the following website -->
+    <!--  http://stackoverflow.com/questions/3769762/android-color-xml-resource-file -->
+    <color name="Blue_AliceBlue">#F0F8FF</color>
+    <color name="Blue_Aqua">#00FFFF</color>
+    <color name="Blue_Aquamarine">#7FFFD4</color>
+    <color name="Blue">#0000FF</color>
+    <color name="Blue_BlueNavy">#000080</color>
+    <color name="Blue_BlueViolet">#8A2BE2</color>
+    <color name="Blue_CadetBlue">#5F9EA0</color>
+    <color name="Blue_CornflowerBlue">#6495ED</color>
+    <color name="Blue_DarkBlue">#00008B</color>
+    <color name="Blue_DarkSlateBlue">#483D8B</color>
+    <color name="Blue_DeepSkyBlue">#00BFFF</color>
+    <color name="Blue_DodgerBlue">#1E90FF</color>
+    <color name="Blue_Lavender">#E6E6FA</color>
+    <color name="Blue_LavenderBlush">#FFF0F5</color>
+    <color name="Blue_LightBlue">#ADD8E6</color>
+    <color name="Blue_LightSkyBlue">#87CEFA</color>
+    <color name="Blue_LightSteelBlue">#B0C4DE</color>
+    <color name="Blue_MediumBlue">#0000CD</color>
+    <color name="Blue_MediumSlateBlue">#7B68EE</color>
+    <color name="Blue_MidnightBlue">#191970</color>
+    <color name="Blue_Navy">#000080</color>
+    <color name="Blue_PowderBlue">#B0E0E6</color>
+    <color name="Blue_RoyalBlue">#4169E1</color>
+    <color name="Blue_SkyBlue">#87CEEB</color>
+    <color name="Blue_SlateBlue">#6A5ACD</color>
+    <color name="Blue_SteelBlue">#4682B4</color>
+
+    <color name="Cyan">#00FFFF</color>
+    <color name="DarkTurquoise">#00CED1</color>
+    <color name="Indigo">#4B0082</color>
+    <color name="MediumAquamarine">#66CDAA</color>
+    <color name="MediumOrchid">#BA55D3</color>
+    <color name="Thistle">#D8BFD8</color>
+    <color name="Violet">#EE82EE</color>
+    <color name="MediumPurple">#9370DB</color>
+    <color name="MediumTurquoise">#48D1CC</color>
+    <color name="Turquoise">#40E0D0</color>
+    <color name="DarkViolet">#9400D3</color>
+    <color name="DarkMagenta">#8B008B</color>
+    <color name="DarkOrchid">#9932CC</color>
+    <color name="Plum">#DDA0DD</color>
+    <color name="Purple">#800080</color>
+    <color name="Orchid">#DA70D6</color>
+    <color name="PaleTurquoise">#AFEEEE</color>
+
+    <integer-array name = "blues">
+        <item>@color/Blue_AliceBlue</item>
+        <item>@color/Blue_Aqua</item>
+        <item>@color/Blue_Aquamarine</item>
+        <item>@color/Blue</item>
+        <item>@color/Blue_BlueNavy</item>
+        <item>@color/Blue_BlueViolet</item>
+        <item>@color/Blue_CadetBlue</item>
+        <item>@color/Blue_CornflowerBlue</item>
+        <item>@color/Blue_DarkBlue</item>
+        <item>@color/Blue_DarkSlateBlue</item>
+        <item>@color/Blue_DeepSkyBlue</item>
+        <item>@color/Blue_DodgerBlue</item>
+        <item>@color/Blue_Lavender</item>
+        <item>@color/Blue_LavenderBlush</item>
+        <item>@color/Blue_LightBlue</item>
+        <item>@color/Blue_LightSkyBlue</item>
+        <item>@color/Blue_LightSteelBlue</item>
+        <item>@color/Blue_MediumBlue</item>
+        <item>@color/Blue_MediumSlateBlue</item>
+        <item>@color/Blue_MidnightBlue</item>
+        <item>@color/Blue_Navy</item>
+        <item>@color/Blue_PowderBlue</item>
+        <item>@color/Blue_RoyalBlue</item>
+        <item>@color/Blue_SkyBlue</item>
+        <item>@color/Blue_SlateBlue</item>
+        <item>@color/Blue_SteelBlue</item>
+
+        <item>@color/Cyan</item>
+        <item>@color/DarkTurquoise</item>
+        <item>@color/Indigo</item>
+        <item>@color/MediumAquamarine</item>
+        <item>@color/MediumOrchid</item>
+        <item>@color/Thistle</item>
+        <item>@color/Violet</item>
+        <item>@color/MediumPurple</item>
+        <item>@color/MediumTurquoise</item>
+        <item>@color/Turquoise</item>
+        <item>@color/DarkViolet</item>
+        <item>@color/DarkMagenta</item>
+        <item>@color/DarkOrchid</item>
+        <item>@color/Plum</item>
+        <item>@color/Purple</item>
+        <item>@color/Orchid</item>
+        <item>@color/PaleTurquoise</item>
+    </integer-array>
+
+</resources>

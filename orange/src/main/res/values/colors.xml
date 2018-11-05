@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The list below came from the following website -->
+    <!--  http://stackoverflow.com/questions/3769762/android-color-xml-resource-file -->
+    <color name="Orange">#FFA500</color>
+    <color name="Orange_DarkOrange">#FF8C00</color>
+
+    <integer-array name = "browns">
+        <item>@color/Orange</item>
+        <item>@color/Orange_DarkOrange</item>
+    </integer-array>
+</resources>

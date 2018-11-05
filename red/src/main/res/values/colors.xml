@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The list below came from the following website -->
+    <!--  http://stackoverflow.com/questions/3769762/android-color-xml-resource-file -->
+    <color name="Red">#FF0000</color>
+    <color name="Red_Crimson">#DC143C</color>
+    <color name="Red_DarkCyan">#008B8B</color>
+    <color name="Red_DarkRed">#8B0000</color>
+    <color name="Red_FireBrick">#B22222</color>
+    <color name="Red_IndianRed">#CD5C5C</color>
+    <color name="Red_LightCyan">#E0FFFF</color>
+    <color name="Red_MediumVioletRed">#C71585</color>
+    <color name="Red_MistyRose">#FFE4E1</color>
+    <color name="Red_OrangeRed">#FF4500</color>
+    <color name="Red_PaleVioletRed">#DB7093</color>
+    <color name="Red_Tomato">#FF6347</color>
+
+    <color name="Cornsilk">#FFF8DC</color>
+    <color name="Linen">#FAF0E6</color>
+    <color name="LightSalmon">#FFA07A</color>
+    <color name="Coral">#FF7F50</color>
+    <color name="DarkSalmon">#E9967A</color>
+    <color name="Fuchsia">#FF00FF</color>
+    <color name="Magenta">#FF00FF</color>
+    <color name="Maroon">#800000</color>
+    <color name="Pink">#FFC0CB</color>
+    <color name="Pink_DeepPink">#FF1493</color>
+    <color name="Pink_HotPink">#FF69B4</color>
+    <color name="Pink_LightPink">#FFB6C1</color>
+    <color name="LightCoral">#F08080</color>
+    <color name="Moccasin">#FFE4B5</color>
+    <color name="OldLace">#FDF5E6</color>
+    <color name="PapayaWhip">#FFEFD5</color>
+    <color name="PeachPuff">#FFDAB9</color>
+    <color name="Peru">#CD853F</color>
+    <color name="Salmon">#FA8072</color>
+    <color name="Seashell">#FFF5EE</color>
+
+    <integer-array name = "reds">
+        <item>@color/Red</item>
+        <item>@color/Red_Crimson</item>
+        <item>@color/Red_DarkCyan</item>
+        <item>@color/Red_DarkRed</item>
+        <item>@color/Red_FireBrick</item>
+        <item>@color/Red_IndianRed</item>
+        <item>@color/Red_LightCyan</item>
+        <item>@color/Red_MediumVioletRed</item>
+        <item>@color/Red_MistyRose</item>
+        <item>@color/Red_OrangeRed</item>
+        <item>@color/Red_PaleVioletRed</item>
+        <item>@color/Red_Tomato</item>
+
+        <item>@color/Cornsilk</item>
+        <item>@color/Linen</item>
+        <item>@color/LightSalmon</item>
+        <item>@color/Coral</item>
+        <item>@color/DarkSalmon</item>
+        <item>@color/Fuchsia</item>
+        <item>@color/Magenta</item>
+        <item>@color/Maroon</item>
+        <item>@color/Pink</item>
+        <item>@color/Pink_DeepPink</item>
+        <item>@color/Pink_HotPink</item>
+        <item>@color/Pink_LightPink</item>
+        <item>@color/LightCoral</item>
+        <item>@color/Moccasin</item>
+        <item>@color/OldLace</item>
+        <item>@color/PapayaWhip</item>
+        <item>@color/PeachPuff</item>
+        <item>@color/Peru</item>
+        <item>@color/Salmon</item>
+        <item>@color/Seashell</item>
+    </integer-array>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="material_yellow_050">#FFFDE7</color>
+    <color name="material_yellow_100">#FFF9C4</color>
+    <color name="material_yellow_200">#FFF59D</color>
+    <color name="material_yellow_300">#FFF176</color>
+    <color name="material_yellow_400">#FFEE58</color>
+    <color name="material_yellow_500">#FFEB3B</color>
+    <color name="material_yellow_600">#FDD835</color>
+    <color name="material_yellow_700">#FBC02D</color>
+    <color name="material_yellow_800">#F9A825</color>
+    <color name="material_yellow_900">#F57F17</color>
+    <color name="material_yellow_a100">#FFFF8D</color>
+    <color name="material_yellow_a200">#FFFF00</color>
+    <color name="material_yellow_a400">#FFEA00</color>
+    <color name="material_yellow_a700">#FFD600</color>
+</resources>

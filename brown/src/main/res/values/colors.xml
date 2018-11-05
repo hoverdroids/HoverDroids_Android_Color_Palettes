@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The list below came from the following website -->
+    <!--  http://stackoverflow.com/questions/3769762/android-color-xml-resource-file -->
+    <!-- <color name="Brown">#A52A2A</color> -->
+    <color name="Brown">#a0672e</color>
+    <color name="Brown_BurlyWood">#DEB887</color>
+    <color name="Brown_Chocolate">#D2691E</color>
+    <color name="Brown_DarkKhaki">#BDB76B</color>
+    <color name="Brown_RosyBrown">#BC8F8F</color>
+    <color name="Brown_SandyBrown">#F4A460</color>
+
+    <color name="brown_kufuma_light">#FF7f3f00</color>
+    <color name="brown_kufuma_medium_light">#FF7f3b00</color>
+    <color name="brown_kufuma_medium_dark">#FF4D2A00</color>
+    <color name="brown_kufuma_dark">#FF342000</color>
+
+    <color name="SaddleBrown">#8B4513</color>
+    <color name="Sienna">#A0522D</color>
+    <color name="Silver">#C0C0C0</color>
+    <color name="Tan">#D2B48C</color>
+
+    <color name="LemonChiffon">#FFFACD</color>
+    <color name="LightGoldenrodYellow">#FAFAD2</color>
+    <color name="Yellow">#FFFF00</color>
+    <color name="Yellow_DarkGoldenrod">#B8860B</color>
+    <color name="Yellow_Gold">#FFD700</color>
+    <color name="Yellow_GoldenRod">#DAA520</color>
+    <color name="Yellow_LightYellow">#FFFFE0</color>
+    <color name="Yellow_PaleGoldenrod">#EEE8AA</color>
+    <color name="BlanchedAlmond">#FFEBCD</color>
+    <color name="White_Wheat">#F5DEB3</color>
+
+    <integer-array name = "browns">
+        <item>@color/Brown</item>
+        <item>@color/Brown_BurlyWood</item>
+        <item>@color/Brown_Chocolate</item>
+        <item>@color/Brown_DarkKhaki</item>
+        <item>@color/Brown_RosyBrown</item>
+        <item>@color/Brown_SandyBrown</item>
+
+        <item>@color/brown_kufuma_light</item>
+        <item>@color/brown_kufuma_medium_light</item>
+        <item>@color/brown_kufuma_medium_dark</item>
+        <item>@color/brown_kufuma_dark</item>
+
+        <item>@color/SaddleBrown</item>
+        <item>@color/Sienna</item>
+        <item>@color/Silver</item>
+        <item>@color/Tan</item>
+
+        <item>@color/LemonChiffon</item>
+        <item>@color/LightGoldenrodYellow</item>
+        <item>@color/Yellow</item>
+        <item>@color/Yellow_DarkGoldenrod</item>
+        <item>@color/Yellow_Gold</item>
+        <item>@color/Yellow_GoldenRod</item>
+        <item>@color/Yellow_LightYellow</item>
+        <item>@color/Yellow_PaleGoldenrod</item>
+        <item>@color/BlanchedAlmond</item>
+        <item>@color/White_Wheat</item>
+    </integer-array>
+</resources>
