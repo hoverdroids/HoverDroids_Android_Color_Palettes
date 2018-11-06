@@ -15,6 +15,7 @@
     <color name="material_teal_a400">#1DE9B6</color>
     <color name="material_teal_a700">#00BFA5</color>
 
+    <color name="selector_teal_normal">@android:color/transparent</color>
     <color name="selector_teal_focused">#2200BFA5</color>
     <color name="selector_teal_pressed">#4400BFA5</color>
 </resources>

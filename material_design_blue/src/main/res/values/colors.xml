@@ -15,6 +15,7 @@
     <color name="material_blue_a400">#2979FF</color>
     <color name="material_blue_a700">#2962FF</color>
 
+    <color name="selector_blue_normal">@android:color/transparent</color>
     <color name="selector_blue_focused">#222962FF</color>
     <color name="selector_blue_pressed">#442962FF</color>
 </resources>

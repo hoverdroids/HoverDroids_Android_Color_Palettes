@@ -14,4 +14,6 @@
     <color name="material_indigo_a200">#536DFE</color>
     <color name="material_indigo_a400">#3D5AFE</color>
     <color name="material_indigo_a700">#304FFE</color>
+
+    <color name="selector_indigo_normal">@android:color/transparent</color>
 </resources>

@@ -15,6 +15,7 @@
     <color name="material_lime_a400">#C6FF00</color>
     <color name="material_lime_a700">#AEEA00</color>
 
+    <color name="selector_lime_normal">@android:color/transparent</color>
     <color name="selector_lime_focused">#22AEEA00</color>
     <color name="selector_lime_pressed">#44AEEA00</color>
 </resources>

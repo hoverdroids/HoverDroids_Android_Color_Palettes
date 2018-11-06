@@ -14,4 +14,6 @@
     <color name="material_pink_a200">#FF4081</color>
     <color name="material_pink_a400">#F50057</color>
     <color name="material_pink_a700">#C51162</color>
+
+    <color name="selector_pink_normal">@android:color/transparent</color>
 </resources>

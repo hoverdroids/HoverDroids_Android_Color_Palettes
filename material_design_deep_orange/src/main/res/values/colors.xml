@@ -14,4 +14,6 @@
     <color name="material_deep_orange_a200">#FF6E40</color>
     <color name="material_deep_orange_a400">#FF3D00</color>
     <color name="material_deep_orange_a700">#DD2C00</color>
+
+    <color name="selector_deep_orange_normal">@android:color/transparent</color>
 </resources>

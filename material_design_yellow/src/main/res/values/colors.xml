@@ -14,4 +14,6 @@
     <color name="material_yellow_a200">#FFFF00</color>
     <color name="material_yellow_a400">#FFEA00</color>
     <color name="material_yellow_a700">#FFD600</color>
+
+    <color name="selector_yellow_normal">@android:color/transparent</color>
 </resources>

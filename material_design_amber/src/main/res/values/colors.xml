@@ -14,4 +14,6 @@
     <color name="material_amber_a200">#FFD740</color>
     <color name="material_amber_a400">#FFC400</color>
     <color name="material_amber_a700">#FFAB00</color>
+
+    <color name="selector_amber_normal">@android:color/transparent</color>
 </resources>

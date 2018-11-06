@@ -14,4 +14,6 @@
     <color name="material_light_green_a200">#B2FF59</color>
     <color name="material_light_green_a400">#76FF03</color>
     <color name="material_light_green_a700">#64DD17</color>
+
+    <color name="selector_light_green_normal">@android:color/transparent</color>
 </resources>

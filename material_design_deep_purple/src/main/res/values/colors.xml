@@ -14,4 +14,6 @@
     <color name="material_deep_purple_a200">#7C4DFF</color>
     <color name="material_deep_purple_a400">#651FFF</color>
     <color name="material_deep_purple_a700">#6200EA</color>
+
+    <color name="selector_deep_purple_normal">@android:color/transparent</color>
 </resources>
