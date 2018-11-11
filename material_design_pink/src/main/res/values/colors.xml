@@ -15,5 +15,26 @@
     <color name="material_pink_a400">#F50057</color>
     <color name="material_pink_a700">#C51162</color>
 
-    <color name="selector_pink_normal">@android:color/transparent</color>
+    <color name="material_pink_a700_pct_0">#00C51162</color>
+    <color name="material_pink_a700_pct_5">#0DC51162</color>
+    <color name="material_pink_a700_pct_10">#1AC51162</color>
+    <color name="material_pink_a700_pct_13_33">#22C51162</color><!--A700 Alpha:13.3%-->
+    <color name="material_pink_a700_pct_15">#26C51162</color>
+    <color name="material_pink_a700_pct_20">#33C51162</color>
+    <color name="material_pink_a700_pct_25">#40C51162</color>
+    <color name="material_pink_a700_pct_26_66">#44C51162</color><!--A700 Alpha:26.66%-->
+    <color name="material_pink_a700_pct_30">#4DC51162</color>
+    <color name="material_pink_a700_pct_35">#59C51162</color>
+    <color name="material_pink_a700_pct_40">#66C51162</color>
+    <color name="material_pink_a700_pct_45">#73C51162</color>
+    <color name="material_pink_a700_pct_50">#80C51162</color>
+    <color name="material_pink_a700_pct_55">#8CC51162</color>
+    <color name="material_pink_a700_pct_60">#99C51162</color>
+    <color name="material_pink_a700_pct_65">#A6C51162</color>
+    <color name="material_pink_a700_pct_70">#B3C51162</color>
+    <color name="material_pink_a700_pct_75">#BFC51162</color>
+    <color name="material_pink_a700_pct_80">#CCC51162</color>
+    <color name="material_pink_a700_pct_85">#D9C51162</color>
+    <color name="material_pink_a700_pct_90">#E6C51162</color>
+    <color name="material_pink_a700_pct_95">#F2C51162</color>
 </resources>

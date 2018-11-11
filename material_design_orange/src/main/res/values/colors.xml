@@ -15,7 +15,26 @@
     <color name="material_orange_a400">#FF9100</color>
     <color name="material_orange_a700">#FF6D00</color>
 
-    <color name="selector_orange_normal">@android:color/transparent</color>
-    <color name="selector_orange_focused">#22FF6D00</color>
-    <color name="selector_orange_pressed">#44FF6D00</color>
+    <color name="material_orange_a700_pct_0">#00FF6D00</color>
+    <color name="material_orange_a700_pct_5">#0DFF6D00</color>
+    <color name="material_orange_a700_pct_10">#1AFF6D00</color>
+    <color name="material_orange_a700_pct_13_33">#22FF6D00</color><!--A700 Alpha:13.3%-->
+    <color name="material_orange_a700_pct_15">#26FF6D00</color>
+    <color name="material_orange_a700_pct_20">#33FF6D00</color>
+    <color name="material_orange_a700_pct_25">#40FF6D00</color>
+    <color name="material_orange_a700_pct_26_66">#44FF6D00</color><!--A700 Alpha:26.66%-->
+    <color name="material_orange_a700_pct_30">#4DFF6D00</color>
+    <color name="material_orange_a700_pct_35">#59FF6D00</color>
+    <color name="material_orange_a700_pct_40">#66FF6D00</color>
+    <color name="material_orange_a700_pct_45">#73FF6D00</color>
+    <color name="material_orange_a700_pct_50">#80FF6D00</color>
+    <color name="material_orange_a700_pct_55">#8CFF6D00</color>
+    <color name="material_orange_a700_pct_60">#99FF6D00</color>
+    <color name="material_orange_a700_pct_65">#A6FF6D00</color>
+    <color name="material_orange_a700_pct_70">#B3FF6D00</color>
+    <color name="material_orange_a700_pct_75">#BFFF6D00</color>
+    <color name="material_orange_a700_pct_80">#CCFF6D00</color>
+    <color name="material_orange_a700_pct_85">#D9FF6D00</color>
+    <color name="material_orange_a700_pct_90">#E6FF6D00</color>
+    <color name="material_orange_a700_pct_95">#F2FF6D00</color>
 </resources>

@@ -15,5 +15,26 @@
     <color name="material_deep_orange_a400">#FF3D00</color>
     <color name="material_deep_orange_a700">#DD2C00</color>
 
-    <color name="selector_deep_orange_normal">@android:color/transparent</color>
+    <color name="material_deep_orange_a700_pct_0">#00DD2C00</color>
+    <color name="material_deep_orange_a700_pct_5">#0DDD2C00</color>
+    <color name="material_deep_orange_a700_pct_10">#1ADD2C00</color>
+    <color name="material_deep_orange_a700_pct_13_33">#22DD2C00</color><!--A700 Alpha:13.3%-->
+    <color name="material_deep_orange_a700_pct_15">#26DD2C00</color>
+    <color name="material_deep_orange_a700_pct_20">#33DD2C00</color>
+    <color name="material_deep_orange_a700_pct_25">#40DD2C00</color>
+    <color name="material_deep_orange_a700_pct_26_66">#44DD2C00</color><!--A700 Alpha:26.66%-->
+    <color name="material_deep_orange_a700_pct_30">#4DDD2C00</color>
+    <color name="material_deep_orange_a700_pct_35">#59DD2C00</color>
+    <color name="material_deep_orange_a700_pct_40">#66DD2C00</color>
+    <color name="material_deep_orange_a700_pct_45">#73DD2C00</color>
+    <color name="material_deep_orange_a700_pct_50">#80DD2C00</color>
+    <color name="material_deep_orange_a700_pct_55">#8CDD2C00</color>
+    <color name="material_deep_orange_a700_pct_60">#99DD2C00</color>
+    <color name="material_deep_orange_a700_pct_65">#A6DD2C00</color>
+    <color name="material_deep_orange_a700_pct_70">#B3DD2C00</color>
+    <color name="material_deep_orange_a700_pct_75">#BFDD2C00</color>
+    <color name="material_deep_orange_a700_pct_80">#CCDD2C00</color>
+    <color name="material_deep_orange_a700_pct_85">#D9DD2C00</color>
+    <color name="material_deep_orange_a700_pct_90">#E6DD2C00</color>
+    <color name="material_deep_orange_a700_pct_95">#F2DD2C00</color>
 </resources>

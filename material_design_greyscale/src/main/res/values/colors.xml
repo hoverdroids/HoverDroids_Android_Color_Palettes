@@ -2,6 +2,7 @@
 <resources>
     <color name="material_transparent">#00000000</color>
     <color name="material_white">#FFFFFF</color>
+    <color name="material_black">#000000</color>
 
     <color name="material_gray_050">#FAFAFA</color>
     <color name="material_gray_100">#F5F5F5</color>
@@ -25,14 +26,51 @@
     <color name="material_blue_gray_800">#37474F</color>
     <color name="material_blue_gray_900">#263238</color>
 
-    <color name="material_black">#000000</color>
+    <color name="material_black_pct_0">#00000000</color>
+    <color name="material_black_pct_5">#0D000000</color>
+    <color name="material_black_pct_10">#1A000000</color>
+    <color name="material_black_pct_13_33">#22000000</color><!--A700 Alpha:13.3%-->
+    <color name="material_black_pct_15">#26000000</color>
+    <color name="material_black_pct_20">#33000000</color>
+    <color name="material_black_pct_25">#40000000</color>
+    <color name="material_black_pct_26_66">#44000000</color><!--A700 Alpha:26.66%-->
+    <color name="material_black_pct_30">#4D000000</color>
+    <color name="material_black_pct_35">#59000000</color>
+    <color name="material_black_pct_40">#66000000</color>
+    <color name="material_black_pct_45">#73000000</color>
+    <color name="material_black_pct_50">#80000000</color>
+    <color name="material_black_pct_55">#8C000000</color>
+    <color name="material_black_pct_60">#99000000</color>
+    <color name="material_black_pct_65">#A6000000</color>
+    <color name="material_black_pct_70">#B3000000</color>
+    <color name="material_black_pct_75">#BF000000</color>
+    <color name="material_black_pct_80">#CC000000</color>
+    <color name="material_black_pct_85">#D9000000</color>
+    <color name="material_black_pct_90">#E6000000</color>
+    <color name="material_black_pct_95">#F2000000</color>
 
-    <!-- Selectors -->
-    <color name="selector_white_normal">@android:color/transparent</color>
-    <color name="selector_white_focused">#22FFFFFF</color>
-    <color name="selector_white_pressed">#33FFFFFF</color>
+    <color name="material_white_pct_0">#00ffffff</color>
+    <color name="material_white_pct_5">#0Dffffff</color>
+    <color name="material_white_pct_10">#1Affffff</color>
+    <color name="material_white_pct_13_33">#22ffffff</color><!--A700 Alpha:13.3%-->
+    <color name="material_white_pct_15">#26ffffff</color>
+    <color name="material_white_pct_20">#33ffffff</color>
+    <color name="material_white_pct_25">#40ffffff</color>
+    <color name="material_white_pct_26_66">#44ffffff</color><!--A700 Alpha:26.66%-->
+    <color name="material_white_pct_30">#4Dffffff</color>
+    <color name="material_white_pct_35">#59ffffff</color>
+    <color name="material_white_pct_40">#66ffffff</color>
+    <color name="material_white_pct_45">#73ffffff</color>
+    <color name="material_white_pct_50">#80ffffff</color>
+    <color name="material_white_pct_55">#8Cffffff</color>
+    <color name="material_white_pct_60">#99ffffff</color>
+    <color name="material_white_pct_65">#A6ffffff</color>
+    <color name="material_white_pct_70">#B3ffffff</color>
+    <color name="material_white_pct_75">#BFffffff</color>
+    <color name="material_white_pct_80">#CCffffff</color>
+    <color name="material_white_pct_85">#D9ffffff</color>
+    <color name="material_white_pct_90">#E6ffffff</color>
+    <color name="material_white_pct_95">#F2ffffff</color>
 
-    <color name="selector_black_normal">@android:color/transparent</color>
-    <color name="selector_black_focused">#12000000</color>
-    <color name="selector_black_pressed">#1F000000</color>
+
 </resources>

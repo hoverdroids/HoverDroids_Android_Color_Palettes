@@ -15,5 +15,26 @@
     <color name="material_deep_purple_a400">#651FFF</color>
     <color name="material_deep_purple_a700">#6200EA</color>
 
-    <color name="selector_deep_purple_normal">@android:color/transparent</color>
+    <color name="material_deep_purple_a700_pct_0">#006200EA</color>
+    <color name="material_deep_purple_a700_pct_5">#0D6200EA</color>
+    <color name="material_deep_purple_a700_pct_10">#1A6200EA</color>
+    <color name="material_deep_purple_a700_pct_13_33">#226200EA</color><!--A700 Alpha:13.3%-->
+    <color name="material_deep_purple_a700_pct_15">#266200EA</color>
+    <color name="material_deep_purple_a700_pct_20">#336200EA</color>
+    <color name="material_deep_purple_a700_pct_25">#406200EA</color>
+    <color name="material_deep_purple_a700_pct_26_66">#446200EA</color><!--A700 Alpha:26.66%-->
+    <color name="material_deep_purple_a700_pct_30">#4D6200EA</color>
+    <color name="material_deep_purple_a700_pct_35">#596200EA</color>
+    <color name="material_deep_purple_a700_pct_40">#666200EA</color>
+    <color name="material_deep_purple_a700_pct_45">#736200EA</color>
+    <color name="material_deep_purple_a700_pct_50">#806200EA</color>
+    <color name="material_deep_purple_a700_pct_55">#8C6200EA</color>
+    <color name="material_deep_purple_a700_pct_60">#996200EA</color>
+    <color name="material_deep_purple_a700_pct_65">#A66200EA</color>
+    <color name="material_deep_purple_a700_pct_70">#B36200EA</color>
+    <color name="material_deep_purple_a700_pct_75">#BF6200EA</color>
+    <color name="material_deep_purple_a700_pct_80">#CC6200EA</color>
+    <color name="material_deep_purple_a700_pct_85">#D96200EA</color>
+    <color name="material_deep_purple_a700_pct_90">#E66200EA</color>
+    <color name="material_deep_purple_a700_pct_95">#F26200EA</color>
 </resources>

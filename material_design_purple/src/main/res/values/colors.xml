@@ -15,7 +15,26 @@
     <color name="material_purple_a400">#D500F9</color>
     <color name="material_purple_a700">#AA00FF</color>
 
-    <color name="selector_purple_normal">@android:color/transparent</color>
-    <color name="selector_purple_focused">#22AA00FF</color>
-    <color name="selector_purple_pressed">#44AA00FF</color>
+    <color name="material_purple_a700_pct_0">#00AA00FF</color>
+    <color name="material_purple_a700_pct_5">#0DAA00FF</color>
+    <color name="material_purple_a700_pct_10">#1AAA00FF</color>
+    <color name="material_purple_a700_pct_13_33">#22AA00FF</color><!--A700 Alpha:13.3%-->
+    <color name="material_purple_a700_pct_15">#26AA00FF</color>
+    <color name="material_purple_a700_pct_20">#33AA00FF</color>
+    <color name="material_purple_a700_pct_25">#40AA00FF</color>
+    <color name="material_purple_a700_pct_26_66">#44AA00FF</color><!--A700 Alpha:26.66%-->
+    <color name="material_purple_a700_pct_30">#4DAA00FF</color>
+    <color name="material_purple_a700_pct_35">#59AA00FF</color>
+    <color name="material_purple_a700_pct_40">#66AA00FF</color>
+    <color name="material_purple_a700_pct_45">#73AA00FF</color>
+    <color name="material_purple_a700_pct_50">#80AA00FF</color>
+    <color name="material_purple_a700_pct_55">#8CAA00FF</color>
+    <color name="material_purple_a700_pct_60">#99AA00FF</color>
+    <color name="material_purple_a700_pct_65">#A6AA00FF</color>
+    <color name="material_purple_a700_pct_70">#B3AA00FF</color>
+    <color name="material_purple_a700_pct_75">#BFAA00FF</color>
+    <color name="material_purple_a700_pct_80">#CCAA00FF</color>
+    <color name="material_purple_a700_pct_85">#D9AA00FF</color>
+    <color name="material_purple_a700_pct_90">#E6AA00FF</color>
+    <color name="material_purple_a700_pct_95">#F2AA00FF</color>    
 </resources>

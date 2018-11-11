@@ -15,5 +15,26 @@
     <color name="material_light_green_a400">#76FF03</color>
     <color name="material_light_green_a700">#64DD17</color>
 
-    <color name="selector_light_green_normal">@android:color/transparent</color>
+    <color name="material_light_green_a700_pct_0">#0064DD17</color>
+    <color name="material_light_green_a700_pct_5">#0D64DD17</color>
+    <color name="material_light_green_a700_pct_10">#1A64DD17</color>
+    <color name="material_light_green_a700_pct_13_33">#2264DD17</color><!--A700 Alpha:13.3%-->
+    <color name="material_light_green_a700_pct_15">#2664DD17</color>
+    <color name="material_light_green_a700_pct_20">#3364DD17</color>
+    <color name="material_light_green_a700_pct_25">#4064DD17</color>
+    <color name="material_light_green_a700_pct_26_66">#4464DD17</color><!--A700 Alpha:26.66%-->
+    <color name="material_light_green_a700_pct_30">#4D64DD17</color>
+    <color name="material_light_green_a700_pct_35">#5964DD17</color>
+    <color name="material_light_green_a700_pct_40">#6664DD17</color>
+    <color name="material_light_green_a700_pct_45">#7364DD17</color>
+    <color name="material_light_green_a700_pct_50">#8064DD17</color>
+    <color name="material_light_green_a700_pct_55">#8C64DD17</color>
+    <color name="material_light_green_a700_pct_60">#9964DD17</color>
+    <color name="material_light_green_a700_pct_65">#A664DD17</color>
+    <color name="material_light_green_a700_pct_70">#B364DD17</color>
+    <color name="material_light_green_a700_pct_75">#BF64DD17</color>
+    <color name="material_light_green_a700_pct_80">#CC64DD17</color>
+    <color name="material_light_green_a700_pct_85">#D964DD17</color>
+    <color name="material_light_green_a700_pct_90">#E664DD17</color>
+    <color name="material_light_green_a700_pct_95">#F264DD17</color>
 </resources>

@@ -15,5 +15,26 @@
     <color name="material_cyan_a400">#00E5FF</color>
     <color name="material_cyan_a700">#00B8D4</color>
 
-    <color name="selector_cyan_normal">@android:color/transparent</color>
+    <color name="material_cyan_a700_pct_0">#0000B8D4</color>
+    <color name="material_cyan_a700_pct_5">#0D00B8D4</color>
+    <color name="material_cyan_a700_pct_10">#1A00B8D4</color>
+    <color name="material_cyan_a700_pct_13_33">#2200B8D4</color><!--A700 Alpha:13.3%-->
+    <color name="material_cyan_a700_pct_15">#2600B8D4</color>
+    <color name="material_cyan_a700_pct_20">#3300B8D4</color>
+    <color name="material_cyan_a700_pct_25">#4000B8D4</color>
+    <color name="material_cyan_a700_pct_26_66">#4400B8D4</color><!--A700 Alpha:26.66%-->
+    <color name="material_cyan_a700_pct_30">#4D00B8D4</color>
+    <color name="material_cyan_a700_pct_35">#5900B8D4</color>
+    <color name="material_cyan_a700_pct_40">#6600B8D4</color>
+    <color name="material_cyan_a700_pct_45">#7300B8D4</color>
+    <color name="material_cyan_a700_pct_50">#8000B8D4</color>
+    <color name="material_cyan_a700_pct_55">#8C00B8D4</color>
+    <color name="material_cyan_a700_pct_60">#9900B8D4</color>
+    <color name="material_cyan_a700_pct_65">#A600B8D4</color>
+    <color name="material_cyan_a700_pct_70">#B300B8D4</color>
+    <color name="material_cyan_a700_pct_75">#BF00B8D4</color>
+    <color name="material_cyan_a700_pct_80">#CC00B8D4</color>
+    <color name="material_cyan_a700_pct_85">#D900B8D4</color>
+    <color name="material_cyan_a700_pct_90">#E600B8D4</color>
+    <color name="material_cyan_a700_pct_95">#F200B8D4</color>
 </resources>

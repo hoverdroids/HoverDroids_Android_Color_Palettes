@@ -15,7 +15,26 @@
     <color name="material_green_a400">#00E676</color>
     <color name="material_green_a700">#00C853</color>
 
-    <color name="selector_green_normal">@android:color/transparent</color>
-    <color name="selector_green_focused">#2200C853</color>
-    <color name="selector_green_pressed">#4400C853</color>
+    <color name="material_green_a700_pct_0">#0000C853</color>
+    <color name="material_green_a700_pct_5">#0D00C853</color>
+    <color name="material_green_a700_pct_10">#1A00C853</color>
+    <color name="material_green_a700_pct_13_33">#2200C853</color><!--A700 Alpha:13.3%-->
+    <color name="material_green_a700_pct_15">#2600C853</color>
+    <color name="material_green_a700_pct_20">#3300C853</color>
+    <color name="material_green_a700_pct_25">#4000C853</color>
+    <color name="material_green_a700_pct_26_66">#4400C853</color><!--A700 Alpha:26.66%-->
+    <color name="material_green_a700_pct_30">#4D00C853</color>
+    <color name="material_green_a700_pct_35">#5900C853</color>
+    <color name="material_green_a700_pct_40">#6600C853</color>
+    <color name="material_green_a700_pct_45">#7300C853</color>
+    <color name="material_green_a700_pct_50">#8000C853</color>
+    <color name="material_green_a700_pct_55">#8C00C853</color>
+    <color name="material_green_a700_pct_60">#9900C853</color>
+    <color name="material_green_a700_pct_65">#A600C853</color>
+    <color name="material_green_a700_pct_70">#B300C853</color>
+    <color name="material_green_a700_pct_75">#BF00C853</color>
+    <color name="material_green_a700_pct_80">#CC00C853</color>
+    <color name="material_green_a700_pct_85">#D900C853</color>
+    <color name="material_green_a700_pct_90">#E600C853</color>
+    <color name="material_green_a700_pct_95">#F200C853</color>
 </resources>

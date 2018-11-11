@@ -15,5 +15,26 @@
     <color name="material_amber_a400">#FFC400</color>
     <color name="material_amber_a700">#FFAB00</color>
 
-    <color name="selector_amber_normal">@android:color/transparent</color>
+    <color name="material_amber_a700_pct_0">#00FFAB00</color>
+    <color name="material_amber_a700_pct_5">#0DFFAB00</color>
+    <color name="material_amber_a700_pct_10">#1AFFAB00</color>
+    <color name="material_amber_a700_pct_13_33">#22FFAB00</color><!--A700 Alpha:13.3%-->
+    <color name="material_amber_a700_pct_15">#26FFAB00</color>
+    <color name="material_amber_a700_pct_20">#33FFAB00</color>
+    <color name="material_amber_a700_pct_25">#40FFAB00</color>
+    <color name="material_amber_a700_pct_26_66">#44FFAB00</color><!--A700 Alpha:26.66%-->
+    <color name="material_amber_a700_pct_30">#4DFFAB00</color>
+    <color name="material_amber_a700_pct_35">#59FFAB00</color>
+    <color name="material_amber_a700_pct_40">#66FFAB00</color>
+    <color name="material_amber_a700_pct_45">#73FFAB00</color>
+    <color name="material_amber_a700_pct_50">#80FFAB00</color>
+    <color name="material_amber_a700_pct_55">#8CFFAB00</color>
+    <color name="material_amber_a700_pct_60">#99FFAB00</color>
+    <color name="material_amber_a700_pct_65">#A6FFAB00</color>
+    <color name="material_amber_a700_pct_70">#B3FFAB00</color>
+    <color name="material_amber_a700_pct_75">#BFFFAB00</color>
+    <color name="material_amber_a700_pct_80">#CCFFAB00</color>
+    <color name="material_amber_a700_pct_85">#D9FFAB00</color>
+    <color name="material_amber_a700_pct_90">#E6FFAB00</color>
+    <color name="material_amber_a700_pct_95">#F2FFAB00</color>
 </resources>

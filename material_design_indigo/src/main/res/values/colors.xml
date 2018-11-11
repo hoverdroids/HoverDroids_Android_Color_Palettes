@@ -15,5 +15,26 @@
     <color name="material_indigo_a400">#3D5AFE</color>
     <color name="material_indigo_a700">#304FFE</color>
 
-    <color name="selector_indigo_normal">@android:color/transparent</color>
+    <color name="material_indigo_a700_pct_0">#00304FFE</color>
+    <color name="material_indigo_a700_pct_5">#0D304FFE</color>
+    <color name="material_indigo_a700_pct_10">#1A304FFE</color>
+    <color name="material_indigo_a700_pct_13_33">#22304FFE</color><!--A700 Alpha:13.3%-->
+    <color name="material_indigo_a700_pct_15">#26304FFE</color>
+    <color name="material_indigo_a700_pct_20">#33304FFE</color>
+    <color name="material_indigo_a700_pct_25">#40304FFE</color>
+    <color name="material_indigo_a700_pct_26_66">#44304FFE</color><!--A700 Alpha:26.66%-->
+    <color name="material_indigo_a700_pct_30">#4D304FFE</color>
+    <color name="material_indigo_a700_pct_35">#59304FFE</color>
+    <color name="material_indigo_a700_pct_40">#66304FFE</color>
+    <color name="material_indigo_a700_pct_45">#73304FFE</color>
+    <color name="material_indigo_a700_pct_50">#80304FFE</color>
+    <color name="material_indigo_a700_pct_55">#8C304FFE</color>
+    <color name="material_indigo_a700_pct_60">#99304FFE</color>
+    <color name="material_indigo_a700_pct_65">#A6304FFE</color>
+    <color name="material_indigo_a700_pct_70">#B3304FFE</color>
+    <color name="material_indigo_a700_pct_75">#BF304FFE</color>
+    <color name="material_indigo_a700_pct_80">#CC304FFE</color>
+    <color name="material_indigo_a700_pct_85">#D9304FFE</color>
+    <color name="material_indigo_a700_pct_90">#E6304FFE</color>
+    <color name="material_indigo_a700_pct_95">#F2304FFE</color>
 </resources>

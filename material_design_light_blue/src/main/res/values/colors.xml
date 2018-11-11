@@ -15,5 +15,26 @@
     <color name="material_light_blue_a400">#00B0FF</color>
     <color name="material_light_blue_a700">#0091EA</color>
 
-    <color name="selector_light_blue_normal">@android:color/transparent</color>
+    <color name="material_light_blue_a700_pct_0">#000091EA</color>
+    <color name="material_light_blue_a700_pct_5">#0D0091EA</color>
+    <color name="material_light_blue_a700_pct_10">#1A0091EA</color>
+    <color name="material_light_blue_a700_pct_13_33">#220091EA</color><!--A700 Alpha:13.3%-->
+    <color name="material_light_blue_a700_pct_15">#260091EA</color>
+    <color name="material_light_blue_a700_pct_20">#330091EA</color>
+    <color name="material_light_blue_a700_pct_25">#400091EA</color>
+    <color name="material_light_blue_a700_pct_26_66">#440091EA</color><!--A700 Alpha:26.66%-->
+    <color name="material_light_blue_a700_pct_30">#4D0091EA</color>
+    <color name="material_light_blue_a700_pct_35">#590091EA</color>
+    <color name="material_light_blue_a700_pct_40">#660091EA</color>
+    <color name="material_light_blue_a700_pct_45">#730091EA</color>
+    <color name="material_light_blue_a700_pct_50">#800091EA</color>
+    <color name="material_light_blue_a700_pct_55">#8C0091EA</color>
+    <color name="material_light_blue_a700_pct_60">#990091EA</color>
+    <color name="material_light_blue_a700_pct_65">#A60091EA</color>
+    <color name="material_light_blue_a700_pct_70">#B30091EA</color>
+    <color name="material_light_blue_a700_pct_75">#BF0091EA</color>
+    <color name="material_light_blue_a700_pct_80">#CC0091EA</color>
+    <color name="material_light_blue_a700_pct_85">#D90091EA</color>
+    <color name="material_light_blue_a700_pct_90">#E60091EA</color>
+    <color name="material_light_blue_a700_pct_95">#F20091EA</color>
 </resources>

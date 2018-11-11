@@ -11,5 +11,26 @@
     <color name="material_brown_800">#4E342E</color>
     <color name="material_brown_900">#3E2723</color>
 
-    <color name="selector_brown_normal">@android:color/transparent</color>
+    <color name="material_brown_a700_pct_0">#003E2723</color>
+    <color name="material_brown_a700_pct_5">#0D3E2723</color>
+    <color name="material_brown_a700_pct_10">#1A3E2723</color>
+    <color name="material_brown_a700_pct_13_33">#223E2723</color><!--A700 Alpha:13.3%-->
+    <color name="material_brown_a700_pct_15">#263E2723</color>
+    <color name="material_brown_a700_pct_20">#333E2723</color>
+    <color name="material_brown_a700_pct_25">#403E2723</color>
+    <color name="material_brown_a700_pct_26_66">#443E2723</color><!--A700 Alpha:26.66%-->
+    <color name="material_brown_a700_pct_30">#4D3E2723</color>
+    <color name="material_brown_a700_pct_35">#593E2723</color>
+    <color name="material_brown_a700_pct_40">#663E2723</color>
+    <color name="material_brown_a700_pct_45">#733E2723</color>
+    <color name="material_brown_a700_pct_50">#803E2723</color>
+    <color name="material_brown_a700_pct_55">#8C3E2723</color>
+    <color name="material_brown_a700_pct_60">#993E2723</color>
+    <color name="material_brown_a700_pct_65">#A63E2723</color>
+    <color name="material_brown_a700_pct_70">#B33E2723</color>
+    <color name="material_brown_a700_pct_75">#BF3E2723</color>
+    <color name="material_brown_a700_pct_80">#CC3E2723</color>
+    <color name="material_brown_a700_pct_85">#D93E2723</color>
+    <color name="material_brown_a700_pct_90">#E63E2723</color>
+    <color name="material_brown_a700_pct_95">#F23E2723</color>
 </resources>

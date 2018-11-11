@@ -15,8 +15,26 @@
     <color name="material_red_a400">#FF1744</color>
     <color name="material_red_a700">#D50000</color>
 
-    <!-- Selectors -->
-    <color name="selector_red_normal">@android:color/transparent</color>
-    <color name="selector_red_focused">#22D50000</color>
-    <color name="selector_red_pressed">#44D50000</color>
+    <color name="material_red_a700_pct_0">#00D50000</color>
+    <color name="material_red_a700_pct_5">#0DD50000</color>
+    <color name="material_red_a700_pct_10">#1AD50000</color>
+    <color name="material_red_a700_pct_13_33">#22D50000</color><!--A700 Alpha:13.3%-->
+    <color name="material_red_a700_pct_15">#26D50000</color>
+    <color name="material_red_a700_pct_20">#33D50000</color>
+    <color name="material_red_a700_pct_25">#40D50000</color>
+    <color name="material_red_a700_pct_26_66">#44D50000</color><!--A700 Alpha:26.66%-->
+    <color name="material_red_a700_pct_30">#4DD50000</color>
+    <color name="material_red_a700_pct_35">#59D50000</color>
+    <color name="material_red_a700_pct_40">#66D50000</color>
+    <color name="material_red_a700_pct_45">#73D50000</color>
+    <color name="material_red_a700_pct_50">#80D50000</color>
+    <color name="material_red_a700_pct_55">#8CD50000</color>
+    <color name="material_red_a700_pct_60">#99D50000</color>
+    <color name="material_red_a700_pct_65">#A6D50000</color>
+    <color name="material_red_a700_pct_70">#B3D50000</color>
+    <color name="material_red_a700_pct_75">#BFD50000</color>
+    <color name="material_red_a700_pct_80">#CCD50000</color>
+    <color name="material_red_a700_pct_85">#D9D50000</color>
+    <color name="material_red_a700_pct_90">#E6D50000</color>
+    <color name="material_red_a700_pct_95">#F2D50000</color>
 </resources>

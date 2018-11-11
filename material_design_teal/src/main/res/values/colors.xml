@@ -15,7 +15,26 @@
     <color name="material_teal_a400">#1DE9B6</color>
     <color name="material_teal_a700">#00BFA5</color>
 
-    <color name="selector_teal_normal">@android:color/transparent</color>
-    <color name="selector_teal_focused">#2200BFA5</color>
-    <color name="selector_teal_pressed">#4400BFA5</color>
+    <color name="material_teal_a700_pct_0">#0000BFA5</color>
+    <color name="material_teal_a700_pct_5">#0D00BFA5</color>
+    <color name="material_teal_a700_pct_10">#1A00BFA5</color>
+    <color name="material_teal_a700_pct_13_33">#2200BFA5</color><!--A700 Alpha:13.3%-->
+    <color name="material_teal_a700_pct_15">#2600BFA5</color>
+    <color name="material_teal_a700_pct_20">#3300BFA5</color>
+    <color name="material_teal_a700_pct_25">#4000BFA5</color>
+    <color name="material_teal_a700_pct_26_66">#4400BFA5</color><!--A700 Alpha:26.66%-->
+    <color name="material_teal_a700_pct_30">#4D00BFA5</color>
+    <color name="material_teal_a700_pct_35">#5900BFA5</color>
+    <color name="material_teal_a700_pct_40">#6600BFA5</color>
+    <color name="material_teal_a700_pct_45">#7300BFA5</color>
+    <color name="material_teal_a700_pct_50">#8000BFA5</color>
+    <color name="material_teal_a700_pct_55">#8C00BFA5</color>
+    <color name="material_teal_a700_pct_60">#9900BFA5</color>
+    <color name="material_teal_a700_pct_65">#A600BFA5</color>
+    <color name="material_teal_a700_pct_70">#B300BFA5</color>
+    <color name="material_teal_a700_pct_75">#BF00BFA5</color>
+    <color name="material_teal_a700_pct_80">#CC00BFA5</color>
+    <color name="material_teal_a700_pct_85">#D900BFA5</color>
+    <color name="material_teal_a700_pct_90">#E600BFA5</color>
+    <color name="material_teal_a700_pct_95">#F200BFA5</color>
 </resources>

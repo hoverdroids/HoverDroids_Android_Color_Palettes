@@ -15,7 +15,26 @@
     <color name="material_lime_a400">#C6FF00</color>
     <color name="material_lime_a700">#AEEA00</color>
 
-    <color name="selector_lime_normal">@android:color/transparent</color>
-    <color name="selector_lime_focused">#22AEEA00</color>
-    <color name="selector_lime_pressed">#44AEEA00</color>
+    <color name="material_lime_a700_pct_0">#00AEEA00</color>
+    <color name="material_lime_a700_pct_5">#0DAEEA00</color>
+    <color name="material_lime_a700_pct_10">#1AAEEA00</color>
+    <color name="material_lime_a700_pct_13_33">#22AEEA00</color><!--A700 Alpha:13.3%-->
+    <color name="material_lime_a700_pct_15">#26AEEA00</color>
+    <color name="material_lime_a700_pct_20">#33AEEA00</color>
+    <color name="material_lime_a700_pct_25">#40AEEA00</color>
+    <color name="material_lime_a700_pct_26_66">#44AEEA00</color><!--A700 Alpha:26.66%-->
+    <color name="material_lime_a700_pct_30">#4DAEEA00</color>
+    <color name="material_lime_a700_pct_35">#59AEEA00</color>
+    <color name="material_lime_a700_pct_40">#66AEEA00</color>
+    <color name="material_lime_a700_pct_45">#73AEEA00</color>
+    <color name="material_lime_a700_pct_50">#80AEEA00</color>
+    <color name="material_lime_a700_pct_55">#8CAEEA00</color>
+    <color name="material_lime_a700_pct_60">#99AEEA00</color>
+    <color name="material_lime_a700_pct_65">#A6AEEA00</color>
+    <color name="material_lime_a700_pct_70">#B3AEEA00</color>
+    <color name="material_lime_a700_pct_75">#BFAEEA00</color>
+    <color name="material_lime_a700_pct_80">#CCAEEA00</color>
+    <color name="material_lime_a700_pct_85">#D9AEEA00</color>
+    <color name="material_lime_a700_pct_90">#E6AEEA00</color>
+    <color name="material_lime_a700_pct_95">#F2AEEA00</color>
 </resources>
