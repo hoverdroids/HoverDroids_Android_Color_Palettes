@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="material_transparent">#00000000</color>
-    <color name="material_white">#FFFFFF</color>
-    <color name="material_black">#000000</color>
 
     <color name="material_gray_050">#FAFAFA</color>
     <color name="material_gray_100">#F5F5F5</color>
@@ -15,16 +13,28 @@
     <color name="material_gray_800">#424242</color>
     <color name="material_gray_900">#212121</color>
 
-    <color name="material_blue_gray_050">#ECEFF1</color>
-    <color name="material_blue_gray_100">#CFD8DC</color>
-    <color name="material_blue_gray_200">#B0BEC5</color>
-    <color name="material_blue_gray_300">#90A4AE</color>
-    <color name="material_blue_gray_400">#78909C</color>
-    <color name="material_blue_gray_500">#607D8B</color>
-    <color name="material_blue_gray_600">#546E7A</color>
-    <color name="material_blue_gray_700">#455A64</color>
-    <color name="material_blue_gray_800">#37474F</color>
-    <color name="material_blue_gray_900">#263238</color>
+    <color name="material_gray_pct_0">#00212121</color>
+    <color name="material_gray_pct_5">#0D212121</color>
+    <color name="material_gray_pct_10">#1A212121</color>
+    <color name="material_gray_pct_13_33">#22212121</color><!--A700 Alpha:13.3%-->
+    <color name="material_gray_pct_15">#26212121</color>
+    <color name="material_gray_pct_20">#33212121</color>
+    <color name="material_gray_pct_25">#40212121</color>
+    <color name="material_gray_pct_26_66">#44212121</color><!--A700 Alpha:26.66%-->
+    <color name="material_gray_pct_30">#4D212121</color>
+    <color name="material_gray_pct_35">#59212121</color>
+    <color name="material_gray_pct_40">#66212121</color>
+    <color name="material_gray_pct_45">#73212121</color>
+    <color name="material_gray_pct_50">#80212121</color>
+    <color name="material_gray_pct_55">#8C212121</color>
+    <color name="material_gray_pct_60">#99212121</color>
+    <color name="material_gray_pct_65">#A6212121</color>
+    <color name="material_gray_pct_70">#B3212121</color>
+    <color name="material_gray_pct_75">#BF212121</color>
+    <color name="material_gray_pct_80">#CC212121</color>
+    <color name="material_gray_pct_85">#D9212121</color>
+    <color name="material_gray_pct_90">#E6212121</color>
+    <color name="material_gray_pct_95">#F2212121</color>
 
     <color name="material_black_pct_0">#00000000</color>
     <color name="material_black_pct_5">#0D000000</color>
@@ -48,6 +58,7 @@
     <color name="material_black_pct_85">#D9000000</color>
     <color name="material_black_pct_90">#E6000000</color>
     <color name="material_black_pct_95">#F2000000</color>
+    <color name="material_black">#000000</color>
 
     <color name="material_white_pct_0">#00ffffff</color>
     <color name="material_white_pct_5">#0Dffffff</color>
@@ -71,6 +82,6 @@
     <color name="material_white_pct_85">#D9ffffff</color>
     <color name="material_white_pct_90">#E6ffffff</color>
     <color name="material_white_pct_95">#F2ffffff</color>
-
+    <color name="material_white">#FFFFFF</color>
 
 </resources>

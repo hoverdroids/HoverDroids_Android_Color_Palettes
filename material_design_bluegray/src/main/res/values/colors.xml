@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="material_bluegray_050">#ECEFF1</color>
+    <color name="material_bluegray_100">#CFD8DC</color>
+    <color name="material_bluegray_200">#B0BEC5</color>
+    <color name="material_bluegray_300">#90A4AE</color>
+    <color name="material_bluegray_400">#78909C</color>
+    <color name="material_bluegray_500">#607D8B</color>
+    <color name="material_bluegray_600">#546E7A</color>
+    <color name="material_bluegray_700">#</color>
+    <color name="material_bluegray_800">#37474F</color>
+    <color name="material_bluegray_900">#263238</color>
+
+    <color name="material_bluegray_pct_0">#00263238</color>
+    <color name="material_bluegray_pct_5">#0D263238</color>
+    <color name="material_bluegray_pct_10">#1A263238</color>
+    <color name="material_bluegray_pct_13_33">#22263238</color><!--A700 Alpha:13.3%-->
+    <color name="material_bluegray_pct_15">#26263238</color>
+    <color name="material_bluegray_pct_20">#33263238</color>
+    <color name="material_bluegray_pct_25">#40263238</color>
+    <color name="material_bluegray_pct_26_66">#44263238</color><!--A700 Alpha:26.66%-->
+    <color name="material_bluegray_pct_30">#4D263238</color>
+    <color name="material_bluegray_pct_35">#59263238</color>
+    <color name="material_bluegray_pct_40">#66263238</color>
+    <color name="material_bluegray_pct_45">#73263238</color>
+    <color name="material_bluegray_pct_50">#80263238</color>
+    <color name="material_bluegray_pct_55">#8C263238</color>
+    <color name="material_bluegray_pct_60">#99263238</color>
+    <color name="material_bluegray_pct_65">#A6263238</color>
+    <color name="material_bluegray_pct_70">#B3263238</color>
+    <color name="material_bluegray_pct_75">#BF263238</color>
+    <color name="material_bluegray_pct_80">#CC263238</color>
+    <color name="material_bluegray_pct_85">#D9263238</color>
+    <color name="material_bluegray_pct_90">#E6263238</color>
+    <color name="material_bluegray_pct_95">#F2263238</color>
+</resources>

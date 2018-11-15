@@ -1,4 +1,4 @@
-package com.hoverdroids.material_design_greyscale;
+package com.hoverdroids.material_design_grayscale;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
